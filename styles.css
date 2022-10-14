@@ -1,0 +1,75 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+#hobbies{
+	color: forestgreen;
+	font: comic;
+}
+
+#skills{
+	color: blue;
+	font: comic;
+}
+
+#goals{
+	color: goldenrod;
+	font: comic;
+}
+
+.fav-color{
+	background-color: forestgreen;
+	color: black;
+	height: 50px;
+	width: 200px;
+}
+
+.fav-place{
+	background-color: brown;
+	color: navajowhite;
+	height: 69px;
+	font-size: 15pxpx;
+}
+
+.fav-ritual{
+	background-color: navy;
+	color: aliceblue;
+	font-size: 8px;
+	height: 50px;
+	width: 150px;
+}
